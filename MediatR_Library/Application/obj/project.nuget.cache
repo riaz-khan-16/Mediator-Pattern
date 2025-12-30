@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uceWRxAl5h4=",
+  "success": true,
+  "projectFilePath": "C:\\WorkMy\\Mediator\\MediatR_Library\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riaz.khan\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\riaz.khan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\riaz.khan\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\riaz.khan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\riaz.khan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

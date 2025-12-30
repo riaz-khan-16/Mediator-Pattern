@@ -1,0 +1,14 @@
+C:\WorkMy\Mediator\Mediator\bin\Debug\net10.0\Mediator.exe
+C:\WorkMy\Mediator\Mediator\bin\Debug\net10.0\Mediator.deps.json
+C:\WorkMy\Mediator\Mediator\bin\Debug\net10.0\Mediator.runtimeconfig.json
+C:\WorkMy\Mediator\Mediator\bin\Debug\net10.0\Mediator.dll
+C:\WorkMy\Mediator\Mediator\bin\Debug\net10.0\Mediator.pdb
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfoInputs.cache
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.AssemblyInfo.cs
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.csproj.CoreCompileInputs.cache
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.dll
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\refint\Mediator.dll
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.pdb
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\Mediator.genruntimeconfig.cache
+C:\WorkMy\Mediator\Mediator\obj\Debug\net10.0\ref\Mediator.dll

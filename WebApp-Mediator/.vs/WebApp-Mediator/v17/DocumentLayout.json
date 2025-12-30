@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WorkMy\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebAppMediator.csproj|c:\\workmy\\webapp\\webapp\\webappmediator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebAppMediator.csproj|solutionrelative:webapp\\webappmediator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|c:\\workmy\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|c:\\workmy\\webapp\\webapp\\infrastructure\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|solutionrelative:webapp\\infrastructure\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|c:\\workmy\\webapp\\webapp\\application\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|solutionrelative:webapp\\application\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|c:\\workmy\\webapp\\webapp\\api\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|solutionrelative:webapp\\api\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|c:\\workmy\\webapp\\webapp\\api\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B99AE8-AA69-4EF1-8EF1-C61DE8A08A37}|WebApp\\WebApp.csproj|solutionrelative:webapp\\api\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAppMediator.csproj",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\WebAppMediator.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebAppMediator.csproj",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\WebAppMediator.csproj",
+              "RelativeToolTip": "WebApp\\WebAppMediator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-30T11:13:18.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\API\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApp\\API\\WeatherForecastController.cs",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\API\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApp\\API\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:12:47.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathController.cs",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\API\\MathController.cs",
+              "RelativeDocumentMoniker": "WebApp\\API\\MathController.cs",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\API\\MathController.cs",
+              "RelativeToolTip": "WebApp\\API\\MathController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:10:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:08:42.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\Infrastructure\\Handlers.cs",
+              "RelativeDocumentMoniker": "WebApp\\Infrastructure\\Handlers.cs",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\Infrastructure\\Handlers.cs",
+              "RelativeToolTip": "WebApp\\Infrastructure\\Handlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:08:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\WorkMy\\WebApp\\WebApp\\Application\\Command.cs",
+              "RelativeDocumentMoniker": "WebApp\\Application\\Command.cs",
+              "ToolTip": "C:\\WorkMy\\WebApp\\WebApp\\Application\\Command.cs",
+              "RelativeToolTip": "WebApp\\Application\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:04:38.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
